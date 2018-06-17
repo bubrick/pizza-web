@@ -1,0 +1,31 @@
+input[type=text-search], [class=text-login],[class=text-form]{
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 80%;
+}
+
+input[class=submit-search], [class =submit-login], [class=submit-form] , [class=btn-registration]{
+    background-color: #191919;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 50%;
+}
+
+div [type=div-search], [type=div-login]{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+div [type=div-form]{
+    width: 50%;
+}
